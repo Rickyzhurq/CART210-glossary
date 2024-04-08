@@ -1,0 +1,11 @@
+## Digital Transformation
+
+Digital transformation is the process of integrating modern computer technology into all facets of a buisness. This could range from introducing new technology in the company's product as well as the overall dependance of said technology during the manufacturing and marketing process. "Organizations undertake digital transformation to better engage and serve their workforce and customers, and thus, improve their ability to compete." [^whatisdigitaltransform]
+
+This phenomenon first occured due to "[g]lobalization in recent decades [that] has placed increasing pressure on businesses to change." [^kraus21dt] Since the market is no longer local, companies have more competition and thus need to strive to be better and more efficient than everyone else. Those who wish adapt to the fast moving economy will almost always have to turn towards digitalization since it gives an unmatched edge over those who haven't changed their ways of operating yet.
+
+In order to pass through this transformation, a major organizational change must occur and the entire structure of the company might shift permanantly. Even the targetted customers might change depending on the new future goals the company has set on and the current customer's loyalty. The strategy employed vary extensively from buisness to buisness, but the desired result is always the same ": improve customer experience, increase efficiency, improve innovation, improve decision making, transform the business." [^schw17dto]
+
+[^whatisdigitaltransform]: Moore, John. "What is digital transformation? Everything you need to know", TechTarget, accessed April 7, 2024, https://www.techtarget.com/searchcio/definition/digital-transformation#:~:text=Digital%20transformation%20is%20the%20incorporation,improve%20their%20ability%20to%20compete.
+[^kraus21dt]: Kraus, Sascha, Paul Jones, Norbert Kailer, Alexandra Weinmann, Nuria Chaparro-Banegas, and Norat Roig-Tierno. 2021. "Digital transformation: An overview of the current state of the art of research." *Sage Open 11*, no. 3: 21582440211047576.
+[^schw17dto]: Schwertner, Krassimira. 2017. "Digital transformation of business." *Trakia Journal of Sciences 15*, no. 1: 388-393.
